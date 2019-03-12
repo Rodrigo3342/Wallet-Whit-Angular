@@ -465,27 +465,7 @@ figure .trasera .titulo{
     font-size: 24px;
 }
 
-figure .trasera hr{
-    height: 5px;
-    background: #fff;
-    border: none;;
-    margin-bottom: 20px;
-    opacity: .5;
-}
-figure .trasera p{
-    font-family: sans-serif;
-    line-height: 22px;
-    font-size:14px;
-}
-h1{
-    font-size: 70px;
-    margin-top: 80px;
-    text-shadow: 0px 0px 6px black;
-}
-div .division{
-    width: 100%;
-    background-color: #395A2E;
-}
+
 
 
 
