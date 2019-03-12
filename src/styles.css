@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0;
+    padding: 0;
+    background: url(wallet.jpg) no-repeat;
+    background-size: auto;
+    background-position: auto;
+    font-family: sans-serif;
+}
+  
+  .avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: url(wallet.jpg);
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+  }
