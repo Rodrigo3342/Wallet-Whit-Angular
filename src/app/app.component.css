@@ -1,0 +1,11 @@
+.contenedor{
+  background-color: rgba(255, 71, 71, 0.692);
+  height:70px;
+  width: 100%;
+  justify-content: center;
+}
+.centers{
+  margin: auto;
+  width: 600px;
+  padding: 10px;
+}
